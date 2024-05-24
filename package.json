@@ -1,0 +1,29 @@
+{
+  "name": "virtual_event_managment_platform",
+  "version": "1.0.0",
+  "description": "Develop a backend system for a virtual event management platform focusing on user registration, event scheduling, and participant management",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akrant06/Virtual_Event_Management_Platform.git"
+  },
+  "keywords": [
+    "event",
+    "event",
+    "management"
+  ],
+  "author": "Ashutosh Kumar Tripathi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akrant06/Virtual_Event_Management_Platform/issues"
+  },
+  "homepage": "https://github.com/akrant06/Virtual_Event_Management_Platform#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "http": "^0.0.1-security"
+  }
+}
